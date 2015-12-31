@@ -1,0 +1,29 @@
+commit a8cc05bd7467bbb30ea25d4d3341689c69e09a5c
+Author: villarruel <ing.fernando.villarruel@gmail.com>
+Date:   Thu Dec 31 12:12:56 2015 -0600
+
+    Agregue mi presentacion
+
+commit 6d23fffc5faf17e9416d63d1d93ed86b7a811baf
+Author: villarruel <ing.fernando.villarruel@gmail.com>
+Date:   Thu Dec 31 12:11:48 2015 -0600
+
+    Elimine el link en las redes sociales
+
+commit 1436fe581744b0dd80e8031b4fabee383de6888d
+Author: villarruel <ing.fernando.villarruel@gmail.com>
+Date:   Thu Dec 31 12:08:53 2015 -0600
+
+    Modifique mi nombre y mi perfil
+
+commit a4264668c464f2c59eebd2a06264a28209d3f4b9
+Author: villarruel <ing.fernando.villarruel@gmail.com>
+Date:   Thu Dec 31 12:06:23 2015 -0600
+
+    Modifique el ruta de imagen y agregue la imagen de mi avatar
+
+commit 369e7404a1ff32714efc8e361a609b8c42aa8db9
+Author: villarruel <ing.fernando.villarruel@gmail.com>
+Date:   Thu Dec 31 12:00:39 2015 -0600
+
+    estos son los archivos base de mi portafolio
